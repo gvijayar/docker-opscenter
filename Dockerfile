@@ -4,7 +4,7 @@ FROM abh1nav/python
 
 MAINTAINER Abhinav Ajgaonkar <abhinav316@gmail.com>
 
-USER testuser
+USER gnats
 
 # Download and extract OpsCenter
 RUN \
