@@ -1,7 +1,5 @@
 # Version 1.2
 
-USER testuser
-
 FROM abh1nav/python
 
 MAINTAINER Abhinav Ajgaonkar <abhinav316@gmail.com>
