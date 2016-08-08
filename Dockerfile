@@ -4,6 +4,8 @@ FROM abh1nav/python
 
 MAINTAINER Abhinav Ajgaonkar <abhinav316@gmail.com>
 
+USER testuser
+
 # Download and extract OpsCenter
 RUN \
   mkdir /opt/opscenter; \
